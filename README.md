@@ -1,3 +1,4 @@
-Notebook criado para o ensino de Algoritmo
+Notebook que foi desenvolvido para ensinar Algoritmos.
 
-A proposta do notebook, foi desenvolver de um conteudo bem objetivo e de facil linguagem para explicar tanto o conceitos de linguagem natual como tbm de Python.
+De forma bem objetiva e de linguagem facil, foi desenvolvido como trabalhado do 1º semestre do curso de Ciência da Computação.
+
